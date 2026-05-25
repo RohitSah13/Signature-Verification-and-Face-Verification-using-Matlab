@@ -1,6 +1,5 @@
 # Signature-Verification-and-Face-Verification-using-Matlab
 Double Verification System using MATLAB .First level verification using Signature and second level using customer face image 
-# Signature & Face Verification App
 
 A MATLAB-based desktop application for verifying a user's identity using both **signature verification** and **face recognition** techniques. The application provides a graphical user interface (GUI) where users can load stored and input images for comparison and perform dual biometric authentication.
 
